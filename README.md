@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Teodor
 
-## I study in a high school of mathematics as well as in a SoftUni
+### I study in a high school of mathematics as well as in a SoftUni
 
 
 Skills: C# Fundamentals
