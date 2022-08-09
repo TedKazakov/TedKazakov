@@ -3,7 +3,13 @@
 ### I study in a high school of mathematics as well as in a SoftUni
 
 
+
+
 Skills: C# Fundamentals
+
+
+
+
 
 
 
