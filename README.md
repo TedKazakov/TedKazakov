@@ -1,8 +1,6 @@
 # Hi there 👋, my name is Teodor
-#### I am student
-![I am student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I study in a high school of mathematics as well as in a SoftUni
+##I study in a high school of mathematics as well as in a SoftUni
 
 
 Skills: C# Fundamentals
