@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Teodor
+# Hi there 👋, my name is Teodor
 #### I am student
 ![I am student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
